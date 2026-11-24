@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋<br><br>I'm kingsley<br><br>- 🏫 I’m currently a UNIVERSITY student at BINGHAM university nigeria.  <br>- 📖 I’m studying Computer science.<br>- 👯 I’m looking to collaborate anywhere.<br>- 🤔 I’m good with both java and python. <br>- 💬 Ask me about anything.<br>- 📫 How to reach me: 09114010366(whatsapp), kubaegede@gmail.com.<br>- 😄 Pronouns: he/him.<br>
+# HI 👋 I'm KIngsley <br><br>CS Student | Backend dev | python & Java 
 
 
 ## 🌐 Socials:
